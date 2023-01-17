@@ -8,5 +8,5 @@
 1) python3 -m venv .venv. 
 2) pip3 install django. 
 3) python manage.py runserver. 
-# Parol: admin
-# Password: admin
+#### Parol: admin
+#### Password: admin
