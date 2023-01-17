@@ -10,3 +10,5 @@
 4) python3 manage.py runserver.  
 #### Parol: admin
 #### Password: admin
+
+### http://127.0.0.1:8000/default/ - main 
