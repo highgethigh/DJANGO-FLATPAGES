@@ -5,9 +5,7 @@
 
 ### Установить зависимости:
 1) В корне самой папки установить:  
-2)```python
-python3 -m venv venv
-```
+2) python3 -m venv venv
 3) Установить сам DJANGO в venv командой:  
 4) pip3 install django
 5) Перейти в папку где лежит файл manage.py и запустить сервер:  
@@ -15,4 +13,6 @@ python3 -m venv venv
 #### Parol: admin
 #### Password: admin
 
-### http://127.0.0.1:8000/default/ - main 
+### http://127.0.0.1:8000/default/ - main. 
+
+[MARKDOWN LEARN]  (https://www.youtube.com/watch?v=jPKi2Addbxw&list=WL&index=106)
