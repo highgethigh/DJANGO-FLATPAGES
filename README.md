@@ -15,4 +15,4 @@
 
 ### http://127.0.0.1:8000/default/ - main. 
 
-[MARKDOWN LEARN]  (https://www.youtube.com/watch?v=jPKi2Addbxw&list=WL&index=106)
+[MARKDOWN LEARN](https://www.youtube.com/watch?v=jPKi2Addbxw&list=WL&index=106)
